@@ -5,14 +5,13 @@
       <link>http://gitbox.github.com/updates.xml</link>
       <description>Gitbox updates.</description>
       <language>en</language>
-				<!-- Now here's an example of a version with a weird internal version number (like an SVN revision) but a human-readable external one. -->
 				<item>
-           <title>Version 1.1 (5 bugs fixed; 2 new features)</title>
+           <title>Version 0.2</title>
 						<sparkle:releaseNotesLink>
-							http://gitbox.github.com/release-notes/1.1.html
+							http://gitbox.github.com/release-notes/0.2.html
 						</sparkle:releaseNotesLink>
            <pubDate>Wed, 25 Dec 2005 12:20:11 +0000</pubDate>
-           <enclosure url="http://gitbox.github.com/downloads/gitbox-1.1.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" sparkle:dsaSignature="MC0CFBfeCa1JyW30nbkBwainOzrN6EQuAh=" length="780349" type="application/octet-stream" />
+           <enclosure url="http://gitbox.github.com/downloads/gitbox-0.2.zip" sparkle:version="0.2" sparkle:shortVersionString="0.2" sparkle:dsaSignature="MC0CFBfeCa1JyW30nbkBwainOzrN6EQuAh=" length="780349" type="application/octet-stream" />
         </item>
    </channel>
 </rss>
