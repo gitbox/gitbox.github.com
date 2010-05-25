@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Gitbox Changelog</title>
+      <link>http://gitbox.github.com/updates.xml</link>
+      <description>Gitbox updates.</description>
+      <language>en</language>
+				<!-- Now here's an example of a version with a weird internal version number (like an SVN revision) but a human-readable external one. -->
+				<item>
+           <title>Version 1.1 (5 bugs fixed; 2 new features)</title>
+						<sparkle:releaseNotesLink>
+							http://gitbox.github.com/release-notes/1.1.html
+						</sparkle:releaseNotesLink>
+           <pubDate>Wed, 25 Dec 2005 12:20:11 +0000</pubDate>
+           <enclosure url="http://gitbox.github.com/downloads/gitbox-1.1.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" sparkle:dsaSignature="MC0CFBfeCa1JyW30nbkBwainOzrN6EQuAh=" length="780349" type="application/octet-stream" />
+        </item>
+   </channel>
+</rss>
